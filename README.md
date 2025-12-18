@@ -11,7 +11,13 @@ A feature-rich **ESP32-based reflow oven controller** with **Nextion HMI**, **we
 ⚠️ **Note:** This project converts a **household small oven** into a smart reflow oven.  
 ⚠️ **说明**：本项目将家用小型烤箱改装为智能回流焊炉。
 
-![回流焊炉](images/1.png"Smart Reflow Oven")
+<img src="images/b.jpg" alt="回流焊炉" title="Smart Reflow Oven" style="zoom:30%;" />
+
+
+
+<img src="images/a.jpg" alt="回流焊炉" title="Smart Reflow Oven" style="zoom:30%;" />
+
+<img src="images/c.jpg" alt="回流焊炉" title="Smart Reflow Oven" style="zoom:30%;" />
 
 ---
 
